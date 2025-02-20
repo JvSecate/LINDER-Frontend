@@ -28,5 +28,5 @@ yarn start
 
 ## Imagens
 
-<img alt="Login" src="./Screenshots/Login.png" width='300' align=""/>
-<img alt="Login" src="./Screenshots/Home.png" width='300' align=""/>
+<img alt="Login" src="./Screenshots/Login.png" width='300' align="Left"/>
+<img alt="Login" src="./Screenshots/Home.png" width='300' align="Left"/>
